@@ -1,0 +1,6 @@
+c:\users\remyp\documents\visual studio 2015\Projects\ConversionNombresArabeVersRomain\ConversionNombresArabeVersRomain\bin\Debug\ConversionNombresArabeVersRomain.exe.config
+c:\users\remyp\documents\visual studio 2015\Projects\ConversionNombresArabeVersRomain\ConversionNombresArabeVersRomain\obj\Debug\ConversionNombresArabeVersRomain.csprojResolveAssemblyReference.cache
+c:\users\remyp\documents\visual studio 2015\Projects\ConversionNombresArabeVersRomain\ConversionNombresArabeVersRomain\bin\Debug\ConversionNombresArabeVersRomain.exe
+c:\users\remyp\documents\visual studio 2015\Projects\ConversionNombresArabeVersRomain\ConversionNombresArabeVersRomain\bin\Debug\ConversionNombresArabeVersRomain.pdb
+c:\users\remyp\documents\visual studio 2015\Projects\ConversionNombresArabeVersRomain\ConversionNombresArabeVersRomain\obj\Debug\ConversionNombresArabeVersRomain.exe
+c:\users\remyp\documents\visual studio 2015\Projects\ConversionNombresArabeVersRomain\ConversionNombresArabeVersRomain\obj\Debug\ConversionNombresArabeVersRomain.pdb
